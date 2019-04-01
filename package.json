@@ -1,0 +1,7 @@
+{
+  "name": "movie_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/verecahill/movie_graphql.git",
+  "license": "MIT"
+}
